@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+numpy
+pandas
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+spacy
+tqdm
+python-telegram-bot
